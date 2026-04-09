@@ -13,7 +13,7 @@ A simple authentication system built using C++ and file handling.
 - fstream
 - 
 ## 📸 Output Preview
-! [Output](output.png)
+! [Output](output.png.jpeg)
 ## ▶️ How to Run
 
 ```bash
