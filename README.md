@@ -11,7 +11,9 @@ A simple authentication system built using C++ and file handling.
 ## 🛠️ Technologies Used
 - C++
 - fstream
-
+- 
+## 📸 Output Preview
+! [Output](output.png)
 ## ▶️ How to Run
 
 ```bash
