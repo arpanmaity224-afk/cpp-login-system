@@ -1,2 +1,19 @@
-# cpp-login-system
-A simple C++ Login and Signup System using file handling. This project allows users to create an account, login, and store credentials in a file.
+# 🔐 C++ Login & Signup System
+
+A simple authentication system built using C++ and file handling.
+
+## 🚀 Features
+- User Signup
+- User Login
+- File-based storage
+- Simple console interface
+
+## 🛠️ Technologies Used
+- C++
+- fstream
+
+## ▶️ How to Run
+
+```bash
+g++ login_system.cpp -o login
+./login
